@@ -7,3 +7,4 @@ ZCZC WEEK00 20 L64 Help Making Repo
 ZCZC WEEK00 200 L09 Learn for Alin
 ZCZC WEEK00 100 L02 GO TO Alin Class
 ZCZC WEEK00 120 L84 Relax on Student Lounge
+ZCZC WEEK00 210 L30 Learning Django Programming Language
