@@ -1,5 +1,5 @@
 # os242
 
-welcome to my page
+Welcome to my page
 <br>
 Nothing special here
