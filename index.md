@@ -2,4 +2,4 @@
 permalink: LINKS/
 ---
 
-[GitHub]((https://os.vlsm.org/Log/))
+[GitHub]((https://os.vlsm.org)
