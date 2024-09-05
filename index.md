@@ -1,5 +1,3 @@
----
-permalink: LINKS/
----
+# OS242: lantry-glitch
 
-[GitHub]((https://os.vlsm.org)
+[TIPS](TIPS/){:target="_blank"} --- [LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/lantry-glitch/os242/){:target="_blank"}
