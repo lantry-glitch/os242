@@ -7,4 +7,4 @@ permalink: LINKS/
 * [Operating Systems](https://os.vlsm.org/) ---
   Very useful for OS empty head student (like me) have nothing but learning about OS
 * [Learn About Vim](https://www.youtube.com/watch?v=RZ4p-saaQkc) --- A great introduction to Vim
-* [Bash Scripting](https://www.youtube.com/playlist?list=PLqyUgadpThTKFWtBUtWkwN5rUgg4sNpDW) --- My start learning about Bash (availble in playlist)
+* [Bash Scripting](https://www.youtube.com/playlist?list=PLqyUgadpThTKFWtBUtWkwN5rUgg4sNpDW) --- My start for learning about Bash (availble in playlist)
