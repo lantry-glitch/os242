@@ -11,3 +11,11 @@ ZCZC WEEK00 210 L30 Learning Django Programming Language
 ZCZC WEEK00 120 L30 Learning Django and its implementation
 ZCZC WEEK00 60 L86 Help Mom
 ZCZC WEEK00 200 L31 Working For Next Week Assigment (VM Intall, Package, etc)
+
+ZCZC WEEK01 20 L09 Learn for Alin
+ZCZC WEEK01 120 L02 GO TO Alin Class
+ZCZC WEEK01 150 L84 Relax on Student Lounge
+ZCZC WEEK01 240 L30 Learning Django Programming Language
+ZCZC WEEK01 170 L30 Learning Django and its implementation
+ZCZC WEEK01 30 L86 Help Mom
+ZCZC WEEK01 280 L31 Learning for next week(Alin, PBP, OS Regex etc)
