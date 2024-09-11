@@ -26,3 +26,4 @@ ZCZC WEEK02 210 L32 watching Security Related youtube
 ZCZC WEEK02 320 L12 Working for assigment 02
 ZCZC WEEK02 270 L26 Learn to GnuPG, key-gen, encrypt/decrypt
 ZCZC WEEK02 30 L41 updating TXT/mylog.txt
+ZCZC WEEK02 120 L64 Helping friend for doing its OS assigment
