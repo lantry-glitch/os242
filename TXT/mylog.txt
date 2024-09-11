@@ -23,3 +23,4 @@ ZCZC WEEK01 280 L31 Learning for next week(Alin, PBP, OS Regex etc)
 ZCZC WEEK02 200 L09 Learn for CyberSecurity
 ZCZC WEEK02 100 L02 go to os class
 ZCZC WEEK02 210 L32 watching Security Related youtube
+ZCZC WEEK02 320 L12 Working for assigment 02
