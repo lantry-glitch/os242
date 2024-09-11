@@ -21,3 +21,4 @@ ZCZC WEEK01 30 L86 Help Mom
 ZCZC WEEK01 280 L31 Learning for next week(Alin, PBP, OS Regex etc)
 
 ZCZC WEEK02 120 L09 Learn for CyberSecurity
+ZCZC WEEK02 120 L02 go to os class
