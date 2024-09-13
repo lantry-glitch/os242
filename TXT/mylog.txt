@@ -28,5 +28,5 @@ ZCZC WEEK02 270 L26 Learn to GnuPG, key-gen, encrypt/decrypt
 ZCZC WEEK02 30 L41 updating TXT/mylog.txt
 ZCZC WEEK02 120 L64 Helping friend for doing its OS assigment
 ZCZC WEEK02 350 L09 Doing OS and Alin assigment
-ZCZC WEEK02 270 L09 Learn OS Security And Operation
+ZCZC WEEK02 270 L09 Learn OS Security And Protection
 ZCZC WEEK02 310 L09 Watching C languange reference
