@@ -9,7 +9,7 @@ permalink: LINKS/
 * [Bash Scripting](https://www.youtube.com/playlist?list=PLqyUgadpThTKFWtBUtWkwN5rUgg4sNpDW) --- Bash Scripting Tutorial. My start for learning about Bash (availble in playlist)
 * [REGEX Train With Visual](https://www.debuggex.com/) --- Take a shot with this great Regex training website. Train with visual helps a lot for understanding Regex. 
 
-## Week 02
+# Week 02
 * [Linux Permission](https://youtu.be/LnKoncbQBsM?si=23gXuobhXm2zmSnB) --- Learn why there is drwxr-xr-x at the beginning of files or folders. 5 Minutes video about Linux File Permission
 * [Asymmetric Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc) --- Learn how Asymmetric Encryption Works. Great for understanding how encryption limit the receiver of data.
 * [PubKey Cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4) --- Learn about Cryptography. Video explanation about how public key and private jey works.
