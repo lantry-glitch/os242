@@ -19,4 +19,4 @@ permalink: LINKS/
 * [What is Virus, Worm or Trojan](https://youtu.be/Wx8sMDXccG8?si=cEZ4lrOVBXY37XQC). --- Learn the difference between Virus, Worm and Trojan. This video explained how to understand these kind of malware.
 * [Learn 23 Types of Cyber Attacks](https://youtu.be/VJFaO2-zsCU?si=cRQfQCWx09_ORhpM) --- Simple example of cyber attacks. This 8 minute video explain many kind of cyber attack like DDos, Spyware, keglogger etc.
 * [Bash Scripting](https://www.youtube.com/playlist?list=PLqyUgadpThTKFWtBUtWkwN5rUgg4sNpDW) --- Bash Scripting Tutorial. Again i recommended this playlist for learn about bash scripting in this week.
-* [Bash Scripting -- TEXT](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) ----- Bash Scripting Tutorial. If you are a fast reader, i more recommended this link.
+* [Bash Scripting | TEXT](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) ----- Bash Scripting Tutorial. If you are a fast reader, i more recommended this link.
