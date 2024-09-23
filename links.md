@@ -20,3 +20,13 @@ permalink: LINKS/
 * [Learn 23 Types of Cyber Attacks](https://youtu.be/VJFaO2-zsCU?si=cRQfQCWx09_ORhpM) --- Simple example of cyber attacks. This 8 minute video explain many kind of cyber attack like DDos, Spyware, keglogger etc.
 * [Bash Scripting](https://www.youtube.com/playlist?list=PLqyUgadpThTKFWtBUtWkwN5rUgg4sNpDW) --- Bash Scripting Tutorial. Again i recommended this playlist for learn about bash scripting in this week.
 * [Bash Scripting | TEXT](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/) ----- Bash Scripting Tutorial. If you are a fast reader, i more recommended this link.
+
+# Week 03
+* [what is tar in linux?](https://www.geeksforgeeks.org/tar-command-linux-examples/) ---
+This page explains how to create and extract tar files. Tar files are a one of many type of files that very useful for making and sending files in a compact manner.
+* [how compiling C program works](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/) ---
+This page show and explains how to compile a C program and how it works at out computer.
+* [Simple Tutorial For Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ---
+This page article explains how to use Makefile and its benefits. This tutorial is very helpful for doing week03 assigment about makefile.
+* [File System in Linux](https://www.youtube.com/watch?v=KN8YgJnShPM) ---
+This video explains what files and file systems are, including the difference between them.
