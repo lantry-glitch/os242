@@ -30,3 +30,14 @@ ZCZC WEEK02 120 L64 Helping friend for doing its OS assigment
 ZCZC WEEK02 350 L09 Doing OS and Alin assigment
 ZCZC WEEK02 270 L09 Learn OS Security And Protection
 ZCZC WEEK02 310 L09 Watching C languange references
+
+ZCZC WEEK02 100 L02 go to os class
+ZCZC WEEK02 270 L26 Learn to Create extra virtual space and many more
+ZCZC WEEK02 320 L12 Working for assigment 03
+ZCZC WEEK02 30 L41 updating TXT/mylog.txt again
+ZCZC WEEK02 200 L09 Learn for OS related content
+ZCZC WEEK02 350 L09 Doing OS and Alin assigment
+ZCZC WEEK02 270 L09 Learn OS Tar Files
+ZCZC WEEK02 310 L09 Watching C languange references
+ZCZC WEEK02 210 L32 watching Fuse Related youtube
+ZCZC WEEK02 120 L64 Helping friend for doing its OS assigment
