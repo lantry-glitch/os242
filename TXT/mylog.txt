@@ -2,42 +2,42 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC WEEK00 30 L10 Making Repo
-ZCZC WEEK00 20 L64 Help Making Repo
-ZCZC WEEK00 200 L09 Learn for Alin
-ZCZC WEEK00 100 L02 GO TO Alin Class
-ZCZC WEEK00 120 L84 Relax on Student Lounge
-ZCZC WEEK00 210 L30 Learning Django Programming Language
-ZCZC WEEK00 120 L30 Learning Django and its implementation
-ZCZC WEEK00 60 L86 Help Mom
-ZCZC WEEK00 200 L31 Working For Next Week Assigment (VM Intall, Package, etc)
+ZCZC W00 30 L10 Making Repo
+ZCZC W00 20 L64 Help Making Repo
+ZCZC W00 200 L09 Learn for Alin
+ZCZC W00 100 L02 GO TO Alin Class
+ZCZC W00 120 L84 Relax on Student Lounge
+ZCZC W00 210 L30 Learning Django Programming Language
+ZCZC W00 120 L30 Learning Django and its implementation
+ZCZC W00 60 L86 Help Mom
+ZCZC W00 200 L31 Working For Next Week Assigment (VM Intall, Package, etc)
 
-ZCZC WEEK01 20 L09 Learn for Alin
-ZCZC WEEK01 120 L02 GO TO Alin Class
-ZCZC WEEK01 150 L84 Relax on Student Lounge
-ZCZC WEEK01 240 L30 Learning Django Programming Language
-ZCZC WEEK01 170 L30 Learning Django and its implementation
-ZCZC WEEK01 30 L86 Help Mom
-ZCZC WEEK01 280 L31 Learning for next week(Alin, PBP, OS Regex etc)
+ZCZC W01 20 L09 Learn for Alin
+ZCZC W01 120 L02 GO TO Alin Class
+ZCZC W01 150 L84 Relax on Student Lounge
+ZCZC W01 240 L30 Learning Django Programming Language
+ZCZC W01 170 L30 Learning Django and its implementation
+ZCZC W01 30 L86 Help Mom
+ZCZC W01 280 L31 Learning for next week(Alin, PBP, OS Regex etc)
 
-ZCZC WEEK02 200 L09 Learn for CyberSecurity
-ZCZC WEEK02 100 L02 go to os class
-ZCZC WEEK02 210 L32 watching Security Related youtube
-ZCZC WEEK02 320 L12 Working for assigment 02
-ZCZC WEEK02 270 L26 Learn to GnuPG, key-gen, encrypt/decrypt
-ZCZC WEEK02 30 L41 updating TXT/mylog.txt
-ZCZC WEEK02 120 L64 Helping friend for doing its OS assigment
-ZCZC WEEK02 350 L09 Doing OS and Alin assigment
-ZCZC WEEK02 270 L09 Learn OS Security And Protection
-ZCZC WEEK02 310 L09 Watching C languange references
+ZCZC W02 200 L09 Learn for CyberSecurity
+ZCZC W02 100 L02 go to os class
+ZCZC W02 210 L32 watching Security Related youtube
+ZCZC W02 320 L12 Working for assigment 02
+ZCZC W02 270 L26 Learn to GnuPG, key-gen, encrypt/decrypt
+ZCZC W02 30 L41 updating TXT/mylog.txt
+ZCZC W02 120 L64 Helping friend for doing its OS assigment
+ZCZC W02 350 L09 Doing OS and Alin assigment
+ZCZC W02 270 L09 Learn OS Security And Protection
+ZCZC W02 310 L09 Watching C languange references
 
-ZCZC WEEK03 100 L02 go to os class
-ZCZC WEEK03 270 L26 Learn to Create extra virtual space and many more
-ZCZC WEEK03 320 L12 Working for assigment 03
-ZCZC WEEK03 30 L41 updating TXT/mylog.txt again
-ZCZC WEEK03 200 L09 Learn for OS related content
-ZCZC WEEK03 350 L09 Doing OS and Alin assigment
-ZCZC WEEK03 270 L09 Learn OS Tar Files
-ZCZC WEEK03 310 L09 Watching C languange references
-ZCZC WEEK03 210 L32 watching Fuse Related youtube
-ZCZC WEEK03 120 L64 Helping friend for doing its OS assigment
+ZCZC W03 100 L02 go to os class
+ZCZC W03 270 L26 Learn to Create extra virtual space and many more
+ZCZC W03 320 L12 Working for assigment 03
+ZCZC W03 30 L41 updating TXT/mylog.txt again
+ZCZC W03 200 L09 Learn for OS related content
+ZCZC W03 350 L09 Doing OS and Alin assigment
+ZCZC W03 270 L09 Learn OS Tar Files
+ZCZC W03 310 L09 Watching C languange references
+ZCZC W03 210 L32 watching Fuse Related youtube
+ZCZC W03 120 L64 Helping friend for doing its OS assigment
