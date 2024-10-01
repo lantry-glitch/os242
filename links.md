@@ -30,3 +30,8 @@ This page show and explains how to compile a C program and how it works at out c
 This page article explains how to use Makefile and its benefits. This tutorial is very helpful for doing week03 assigment about makefile.
 * [File System in Linux](https://www.youtube.com/watch?v=KN8YgJnShPM) ---
 This video explains what files and file systems are, including the difference between them.
+
+# Week 04
+* [How to use SCP](https://mazer.dev/en/linux/tips/copy-files-from-local-to-server-using-scp-ssh-linux/) --- This article that introduces how to use the SCP command. Very useful for doing pop quiz.
+
+* [Understand File Permission](https://askubuntu.com/questions/528411/how-do-you-view-file-permissions) --- This great and concise answer explaining what the numbers in a file permission mean and how to interpret them. It also explains the meaning of all 10 characters in a file permission.
