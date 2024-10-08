@@ -51,3 +51,13 @@ ZCZC W04 350 L09 Doing OS and Alin assigment again
 ZCZC W04 270 L09 Learn OS tar Files and tar.xz
 ZCZC W04 310 L09 Watching TLPI references
 ZCZC W04 120 L64 Helping friend for doing its OS assigment for this week
+
+ZCZC W05 100 L02 go to os class
+ZCZC W05 270 L26 Learn to about memory
+ZCZC W05 320 L12 Working for assigment 05
+ZCZC W05 30 L41 updating TXT/mylog.txt again
+ZCZC W05 200 L09 Learn for OS related content
+ZCZC W05 350 L09 Doing OS and fixing the error
+ZCZC W05 270 L09 Learn OS tar Files and tar.xz
+ZCZC W05 310 L09 Watching youtube references about user directory
+ZCZC W05 120 L64 Helping friend for doing its OS assigment for this week
