@@ -35,3 +35,10 @@ This video explains what files and file systems are, including the difference be
 * [How to use SCP](https://mazer.dev/en/linux/tips/copy-files-from-local-to-server-using-scp-ssh-linux/) --- This article that introduces how to use the SCP command. Very useful for doing pop quiz.
 
 * [Understand File Permission](https://askubuntu.com/questions/528411/how-do-you-view-file-permissions) --- This great and concise answer explaining what the numbers in a file permission mean and how to interpret them. It also explains the meaning of all 10 characters in a file permission.
+
+# Week 05
+* [Virtual Memory: What is Virtual Memory](https://youtu.be/qlH4-oHnBb8)
+Lecture by David Black-Schaffer all about virtual memory. His explanations are simple to understand and clear. He also gave segmen so we can easily find the subtopic of Virtual Memory easily.
+
+* [Page Replacement Algorithms](https://youtu.be/16kaPQtYo28)
+A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-in-First-Out),LRU(Last Recently Used), and Optimal Page Replacement. This video helps me understanding page replacement more easily.
