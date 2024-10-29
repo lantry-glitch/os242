@@ -42,3 +42,7 @@ Lecture by David Black-Schaffer all about virtual memory. His explanations are s
 
 * [Page Replacement Algorithms](https://youtu.be/16kaPQtYo28)
 A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-in-First-Out),LRU(Last Recently Used), and Optimal Page Replacement. This video helps me understanding page replacement more easily.
+
+# Week 06
+* [Fork System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- Explain about how fork system called in OS. It's easy to grasp such a complex topic by reading this link.
+* [Fork in C programming](https://www.section.io/engineering-education/fork-in-c-programming-language/) --- A great explanation about how fork work in C programming. Quite making some great understanding about from this link.
