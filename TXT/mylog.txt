@@ -61,3 +61,13 @@ ZCZC W05 350 L09 Doing OS and fixing the error
 ZCZC W05 270 L09 Learn OS tar Files and tar.xz
 ZCZC W05 310 L09 Watching youtube references about user directory
 ZCZC W05 120 L64 Helping friend for doing its OS assigment for this week
+
+ZCZC W06 100 L02 go to os class
+ZCZC W06 270 L26 Learn to about fork
+ZCZC W06 320 L12 Working for assigment 05
+ZCZC W06 30 L41 updating TXT/mylog.txt again
+ZCZC W06 200 L09 Learn for OS related content
+ZCZC W06 350 L09 Doing OS and fixing the error
+ZCZC W06 270 L09 Learn OS tar Files and tar.xz
+ZCZC W06 310 L09 Watching youtube references about fork
+ZCZC W06 120 L64 Helping friend for doing its OS assigment for this week
