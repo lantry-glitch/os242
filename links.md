@@ -46,3 +46,7 @@ A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-i
 # Week 06
 * [Fork System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) --- Explain about how fork system called in OS. It's easy to grasp such a complex topic by reading this link.
 * [Fork in C programming](https://www.section.io/engineering-education/fork-in-c-programming-language/) --- A great explanation about how fork work in C programming. Quite making some great understanding about from this link.
+  
+# Week 07
+* [Shared Memory](https://www.scaler.com/topics/shared-memory-linux/) --- This article give general and detail explanation about shared memory in linux such as the definition, how does it works, and how many type of shared memory does it have in linux.
+* [Create Shared Memory](https://www.youtube.com/watch?v=WgVSq-sgHOc) --- This article give an visual explanation about linux shared memory (shmget,shmat,shmdt,shmctl, and ftok) with videos and examples.
