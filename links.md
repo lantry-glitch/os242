@@ -50,3 +50,7 @@ A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-i
 # Week 07
 * [Shared Memory](https://www.scaler.com/topics/shared-memory-linux/) --- This article give general and detail explanation about shared memory in linux such as the definition, how does it works, and how many type of shared memory does it have in linux.
 * [Create Shared Memory](https://www.youtube.com/watch?v=WgVSq-sgHOc) --- This article give an visual explanation about linux shared memory (shmget,shmat,shmdt,shmctl, and ftok) with videos and examples.
+
+# Week 08
+* [LFS Learning](https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/gcc-libstdc++.html) --- This article helps on learning how to build LFS with step by step. A great journey to create your own linux.
+* [Compiling a cross-toolchain (tutorial on how to do LFS step by step)](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=11) --- This playlist help me a lot for doing LFS from Chap. 1-5 for this week. I hope you also watch this playlist if you getting trouble when doing LFS.
