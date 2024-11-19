@@ -91,3 +91,13 @@ ZCZC W08 350 L09 Doing OS and fixing the error
 ZCZC W08 270 L09 Learn OS tar Files and tar.xz
 ZCZC W08 310 L09 Watching youtube references about this week
 ZCZC W08 120 L64 Helping friend for doing its OS assigment for this week
+
+ZCZC W09 100 L02 go to os class
+ZCZC W09 270 L26 Learn to about semarphore
+ZCZC W09 320 L12 Working for assigment 09
+ZCZC W09 30 L41 updating TXT/mylog.txt again
+ZCZC W09 200 L09 Learn for OS related content
+ZCZC W09 350 L09 Doing OS and fixing the error
+ZCZC W09 270 L09 Learn OS tar Files and tar.xz
+ZCZC W09 310 L09 Watching youtube references about LFS
+ZCZC W09 120 L64 Helping friend for doing its OS assigment for this week
