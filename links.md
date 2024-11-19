@@ -54,3 +54,7 @@ A video by Education 4u about Page Replacement Algorithms, such as FIFO (First-i
 # Week 08
 * [LFS Learning](https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/gcc-libstdc++.html) --- This article helps on learning how to build LFS with step by step. A great journey to create your own linux.
 * [Compiling a cross-toolchain (tutorial on how to do LFS step by step)](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=11) --- This playlist help me a lot for doing LFS from Chap. 1-5 for this week. I hope you also watch this playlist if you getting trouble when doing LFS.
+
+# Week 09
+* [LFS Learning](https://www.linuxfromscratch.org/lfs/view/12.0/) --- Very useful book to create lfs.
+
